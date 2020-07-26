@@ -6,7 +6,7 @@ Develop a system which will analyze fake news shared on Twitter using various ma
 
 * To collect the data from twitter using twitter scrapper.
 * To detect the news, which is a classic text classification problem with a straight forward     proposition. 
-* To build a model that can differentiate between ìRealî news and ìFakeî news.
+* To build a model that can differentiate between ‚ÄúReal‚Äù news and ‚ÄúFake‚Äù news.
 
 
 ### INTRODUCTION
@@ -22,14 +22,14 @@ Develop a system which will analyze fake news shared on Twitter using various ma
 ## Proposed Approach (Dataset & Algorithms)
 
 ###Collecting the data
-    ->LIAR Dataset
+    * LIAR Dataset
 
 ###Classification the Data(Algorithms)
-    -> NaÔve Bayes
-    -> Logistic Regression
-    -> Support Vector Machine
-    -> Stochastic Gradien Descent
-    -> Random Forest Classifier
+    * Na√Øve Bayes
+    * Logistic Regression
+    * Support Vector Machine
+    * Stochastic Gradien Descent
+    * Random Forest Classifier
 
 
 ## Built With
