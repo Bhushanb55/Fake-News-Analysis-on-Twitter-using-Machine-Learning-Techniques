@@ -22,14 +22,14 @@
 ## Proposed Approach (Dataset & Algorithms)
 
    ### Collecting the data
-      * LIAR Dataset
+    * LIAR Dataset
 
    ### Classification the Data(Algorithms)
-      * Naïve Bayes
-      * Logistic Regression
-      * Support Vector Machine
-      * Stochastic Gradien Descent
-      * Random Forest Classifier
+    * Naïve Bayes
+    * Logistic Regression
+    * Support Vector Machine
+    * Stochastic Gradien Descent
+    * Random Forest Classifier
 
 
 ## Built With
